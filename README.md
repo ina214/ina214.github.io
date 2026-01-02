@@ -17,7 +17,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Responsive Web](https://img.shields.io/badge/Responsive%20Web-02569B?style=flat&logo=css3&logoColor=white)
+![Responsive Web](https://img.shields.io/badge/Responsive-Web-00C853?style=flat)
+![Accessibility](https://img.shields.io/badge/Accessibility-A11y-0A66C2?style=flat)
 
 ### 🎨 Design
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
