@@ -2,6 +2,10 @@
 /* 외부파일 */
 
 /* common */
+:root {
+  --base-font-size: 16;
+}
+
 * {
   margin: 0;
   padding: 0;
