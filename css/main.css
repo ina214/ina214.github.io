@@ -199,7 +199,7 @@ main section.project .list {
 @media (min-width: 1024px) {
   main section.project .list {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: clamp(1.25rem, 1.5vw, 1.5rem);
   }
 }
