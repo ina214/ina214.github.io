@@ -239,9 +239,9 @@ main section.project .list .info .date {
 main section.project .list .thumb {
   position: relative;
   margin-top: 0.5rem;
-  height: clamp(12.25rem, 10vw, 15rem);
+  height: clamp(13rem, 10vw, 15rem);
   background-color: #f9f9f9;
-  display: block;
+  display: flex;
   overflow: hidden;
 }
 main section.project .list .thumb::before {
